@@ -28,7 +28,7 @@ One command to clean development caches and project build artifacts for iOS, And
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dev-cleaner.git
+git clone https://github.com/Damith014/dev-cleaner.git
 ```
 
 Go into the project
